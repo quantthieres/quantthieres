@@ -1,4 +1,4 @@
-## 👋 Oi, eu sou o Lucas. Economista e entusiasta de Finanças Quantitativas
+## Oi, eu sou o Lucas. Economista e entusiasta de Finanças Quantitativas
 
 Mestrando em Economia Aplicada (UFOP) com foco em Mercado Financeiro, Econometria e Modelagem Quantitativa.  
 Interesse em transformar dados e teoria econômica em decisões de investimento.
