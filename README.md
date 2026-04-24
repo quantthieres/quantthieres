@@ -1,29 +1,38 @@
-## Oi, eu sou o Lucas. Economista e entusiasta de Finanças Quantitativas
+<h1 align="center">Lucas Thieres</h1>
 
-Mestrando em Economia Aplicada (UFOP) com foco em Mercado Financeiro, Econometria e Modelagem Quantitativa.  
-Interesse em transformar dados e teoria econômica em decisões de investimento.
+<p align="center">
+  "Turning data and economic theory into investment decisions"
+</p>
 
-### Sobre mim 
+<p align="center">
+  <img src="https://img.shields.io/badge/Economics-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Econometrics-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Quant%20Finance-0A7E07?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Financial%20Markets-B8860B?style=for-the-badge" />
+</p>
 
-Tenho formação em Economia e atualmente aprofundo minha base em econometria, finanças quantitativas e análise de dados.  
-Busco aplicar métodos quantitativos para entender o comportamento de ativos, risco e retornos no mercado financeiro.
+MSc student in Applied Economics at UFOP, focused on Financial Markets, Econometrics, and Quantitative Modeling. I am interested in transforming data and economic theory into investment decisions.
 
-### Áreas de interesse
+### About me:
+
+I have a background in Economics and currently deepen my knowledge in econometrics, quantitative finance, and data analysis. I aim to apply quantitative methods to understand asset behavior, risk, and returns in financial markets.
+
+### Areas of interest:
 
 - Asset Pricing
 - Portfolio Optimization
-- Renda Fixa e Curva de Juros
-- Macroeconomia aplicada a mercados
-- Modelos econométricos
+- Fixed Income and Yield Curves
+- Macroeconomics applied to financial markets
+- Econometric Models
 
-### Métodos
+### Methods:
 
-- Econometria
-- Séries temporais
-- Otimização de portfólio
-- Análise de dados
+- Econometrics
+- Time Series
+- Portfolio Optimization
+- Data Analysis
 
-### Ferramentas e tecnologias
+### Tools and technologies:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
